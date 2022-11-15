@@ -2,4 +2,4 @@
 
 .Net IoT Library API 中找不到 PCF8591t 的driver,但可使用 Pcx857x 來代替
 
-![接線圖](https://github.com/nethawkChen/Raspberry/blob/main/.net/pcf8591t/img/pcf8591t_bb.jpg)
+![接線圖](https://github.com/nethawkChen/.net.iot.pcf8591t/blob/main/img/pcf8591t_bb.jpg)
